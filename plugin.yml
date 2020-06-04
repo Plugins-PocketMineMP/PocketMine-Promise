@@ -1,0 +1,5 @@
+name: PromiseLoader
+author: alvin0319
+main: alvin0319\Promise\PromiseLoader
+version: 1.0.0
+api: 3.0.0
